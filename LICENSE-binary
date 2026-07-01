@@ -656,7 +656,7 @@ The license texts of these dependencies can be found in the licenses directory.
         * Apache HBase Unsafe Wrapper (org.apache.hbase.thirdparty:hbase-unsafe:4.1.13 - https://hbase.apache.org/hbase-unsafe)
         * Apache HttpClient (org.apache.httpcomponents:httpclient:4.5.14 - http://hc.apache.org/httpcomponents-client-ga)
         * Apache HttpCore (org.apache.httpcomponents:httpcore:4.4.16 - http://hc.apache.org/httpcomponents-core-ga)
-        * Apache Kafka (org.apache.kafka:kafka-clients:4.3.0 - https://kafka.apache.org)
+        * Apache Kafka (org.apache.kafka:kafka-clients:4.3.1 - https://kafka.apache.org)
         * Apache Log4j API (org.apache.logging.log4j:log4j-api:2.26.0 - https://logging.apache.org/log4j/2.x/)
         * Apache Log4j Core (org.apache.logging.log4j:log4j-core:2.26.0 - https://logging.apache.org/log4j/2.x/)
         * Apache Yetus - Audience Annotations (org.apache.yetus:audience-annotations:0.12.0 - https://yetus.apache.org/audience-annotations)
@@ -684,7 +684,7 @@ The license texts of these dependencies can be found in the licenses directory.
         * Dropwizard Servlet Support (io.dropwizard:dropwizard-servlets:5.0.2 - http://www.dropwizard.io/5.0.2/dropwizard-bom/dropwizard-dependencies/dropwizard-parent/dropwizard-servlets)
         * Dropwizard Utility Classes (io.dropwizard:dropwizard-util:5.0.2 - http://www.dropwizard.io/5.0.2/dropwizard-bom/dropwizard-dependencies/dropwizard-parent/dropwizard-util)
         * Dropwizard Validation Support (io.dropwizard:dropwizard-validation:5.0.2 - http://www.dropwizard.io/5.0.2/dropwizard-bom/dropwizard-dependencies/dropwizard-parent/dropwizard-validation)
-        * error-prone annotations (com.google.errorprone:error_prone_annotations:2.49.0 - https://errorprone.info/error_prone_annotations)
+        * error-prone annotations (com.google.errorprone:error_prone_annotations:2.50.0 - https://errorprone.info/error_prone_annotations)
         * FindBugs-jsr305 (com.google.code.findbugs:jsr305:3.0.2 - http://findbugs.sourceforge.net/)
         * Graphite Integration for Metrics (io.dropwizard.metrics:metrics-graphite:4.2.39 - https://metrics.dropwizard.io/metrics-graphite)
         * Gson (com.google.code.gson:gson:2.14.0 - https://github.com/google/gson)
@@ -773,7 +773,7 @@ The license texts of these dependencies can be found in the licenses directory.
         * SnakeYAML (org.yaml:snakeyaml:2.6 - https://bitbucket.org/snakeyaml/snakeyaml)
         * snappy-java (org.xerial.snappy:snappy-java:1.1.10.8 - https://github.com/xerial/snappy-java)
         * Throttling Appender (io.dropwizard.logback:logback-throttling-appender:1.5.3 - https://github.com/dropwizard/logback-throttling-appender/)
-        * Woodstox (com.fasterxml.woodstox:woodstox-core:7.2.0 - https://github.com/FasterXML/woodstox)
+        * Woodstox (com.fasterxml.woodstox:woodstox-core:7.2.1 - https://github.com/FasterXML/woodstox)
         * Apache Thrift (org.apache.thrift:libthrift:0.23.0 - http://thrift.apache.org)
         * Java Concurrency Tools Core Library (org.jctools:jctools-core:4.0.6 - https://github.com/JCTools)
         * JHeaps (org.jheaps:jheaps:0.14 - http://www.jheaps.org)
@@ -819,14 +819,17 @@ The license texts of these dependencies can be found in the licenses directory.
 
     Apache License, Version 2.0, Eclipse Public License, Version 2.0
 
-        * Core :: HTTP (org.eclipse.jetty:jetty-http:12.1.9 - https://jetty.org/jetty-core/jetty-http)
-        * Core :: IO (org.eclipse.jetty:jetty-io:12.1.9 - https://jetty.org/jetty-core/jetty-io)
+        * Core :: HTTP (org.eclipse.jetty:jetty-http:12.1.10 - https://jetty.org/jetty-core/jetty-http)
+        * Core :: IO (org.eclipse.jetty:jetty-io:12.1.10 - https://jetty.org/jetty-core/jetty-io)
+        * Core :: Security (org.eclipse.jetty:jetty-security:12.1.10 - https://jetty.org/jetty-core/jetty-security)
         * Core :: Security (org.eclipse.jetty:jetty-security:12.1.9 - https://jetty.org/jetty-core/jetty-security)
+        * Core :: Server (org.eclipse.jetty:jetty-server:12.1.10 - https://jetty.org/jetty-core/jetty-server)
         * Core :: Server (org.eclipse.jetty:jetty-server:12.1.9 - https://jetty.org/jetty-core/jetty-server)
-        * Core :: Sessions (org.eclipse.jetty:jetty-session:12.1.9 - https://jetty.org/jetty-core/jetty-session)
+        * Core :: Sessions (org.eclipse.jetty:jetty-session:12.1.10 - https://jetty.org/jetty-core/jetty-session)
+        * Core :: Utilities (org.eclipse.jetty:jetty-util:12.1.10 - https://jetty.org/jetty-core/jetty-util)
         * Core :: Utilities (org.eclipse.jetty:jetty-util:12.1.9 - https://jetty.org/jetty-core/jetty-util)
-        * EE10 :: Servlet (org.eclipse.jetty.ee10:jetty-ee10-servlet:12.1.9 - https://jetty.org/jetty-ee10/jetty-ee10-servlet)
-        * EE10 :: Utility Servlets and Filters (org.eclipse.jetty.ee10:jetty-ee10-servlets:12.1.9 - https://jetty.org/jetty-ee10/jetty-ee10-servlets)
+        * EE10 :: Servlet (org.eclipse.jetty.ee10:jetty-ee10-servlet:12.1.10 - https://jetty.org/jetty-ee10/jetty-ee10-servlet)
+        * EE10 :: Utility Servlets and Filters (org.eclipse.jetty.ee10:jetty-ee10-servlets:12.1.10 - https://jetty.org/jetty-ee10/jetty-ee10-servlets)
 
     Apache License, Version 2.0, Eclipse Public License, Version 2.0, Modified BSD, The GNU General Public License (GPL), Version 2, With Classpath Exception
 
@@ -856,7 +859,7 @@ The license texts of these dependencies can be found in the licenses directory.
 
     BSD 2-Clause License
 
-        * zstd-jni (com.github.luben:zstd-jni:1.5.7-9 - https://github.com/luben/zstd-jni)
+        * zstd-jni (com.github.luben:zstd-jni:1.5.7-11 - https://github.com/luben/zstd-jni)
 
     BSD 3-Clause License
 

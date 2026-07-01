@@ -14,7 +14,7 @@ List of third-party dependencies grouped by their license type.
 
     Apache License, Version 2.0
 
-        * ActiveMQ :: Client (org.apache.activemq:activemq-client:6.2.6 - http://activemq.apache.org/activemq-client)
+        * ActiveMQ :: Client (org.apache.activemq:activemq-client:6.2.7 - http://activemq.apache.org/activemq-client)
         * Annotations for Metrics (io.dropwizard.metrics:metrics-annotation:4.2.39 - https://metrics.dropwizard.io/metrics-annotation)
         * Apache Avro (org.apache.avro:avro:1.12.1 - https://avro.apache.org)
         * Apache Commons CLI (commons-cli:commons-cli:1.11.0 - https://commons.apache.org/proper/commons-cli/)
@@ -59,7 +59,7 @@ List of third-party dependencies grouped by their license type.
         * Apache HttpComponents Core HTTP/1.1 (org.apache.httpcomponents.core5:httpcore5:5.2 - https://hc.apache.org/httpcomponents-core-5.2.x/5.2/httpcore5/)
         * Apache HttpComponents Core HTTP/2 (org.apache.httpcomponents.core5:httpcore5-h2:5.2 - https://hc.apache.org/httpcomponents-core-5.2.x/5.2/httpcore5-h2/)
         * Apache HttpCore (org.apache.httpcomponents:httpcore:4.4.16 - http://hc.apache.org/httpcomponents-core-ga)
-        * Apache Kafka (org.apache.kafka:kafka-clients:4.3.0 - https://kafka.apache.org)
+        * Apache Kafka (org.apache.kafka:kafka-clients:4.3.1 - https://kafka.apache.org)
         * Apache Log4j API (org.apache.logging.log4j:log4j-api:2.26.0 - https://logging.apache.org/log4j/2.x/)
         * Apache Log4j Core (org.apache.logging.log4j:log4j-core:2.26.0 - https://logging.apache.org/log4j/2.x/)
         * Apache Thrift (org.apache.thrift:libthrift:0.23.0 - http://thrift.apache.org)
@@ -92,7 +92,7 @@ List of third-party dependencies grouped by their license type.
         * Dropwizard Servlet Support (io.dropwizard:dropwizard-servlets:5.0.2 - http://www.dropwizard.io/5.0.2/dropwizard-bom/dropwizard-dependencies/dropwizard-parent/dropwizard-servlets)
         * Dropwizard Utility Classes (io.dropwizard:dropwizard-util:5.0.2 - http://www.dropwizard.io/5.0.2/dropwizard-bom/dropwizard-dependencies/dropwizard-parent/dropwizard-util)
         * Dropwizard Validation Support (io.dropwizard:dropwizard-validation:5.0.2 - http://www.dropwizard.io/5.0.2/dropwizard-bom/dropwizard-dependencies/dropwizard-parent/dropwizard-validation)
-        * error-prone annotations (com.google.errorprone:error_prone_annotations:2.49.0 - https://errorprone.info/error_prone_annotations)
+        * error-prone annotations (com.google.errorprone:error_prone_annotations:2.50.0 - https://errorprone.info/error_prone_annotations)
         * FindBugs-jsr305 (com.google.code.findbugs:jsr305:3.0.2 - http://findbugs.sourceforge.net/)
         * Graphite Integration for Metrics (io.dropwizard.metrics:metrics-graphite:4.2.39 - https://metrics.dropwizard.io/metrics-graphite)
         * Gson (com.google.code.gson:gson:2.14.0 - https://github.com/google/gson)
@@ -236,7 +236,7 @@ List of third-party dependencies grouped by their license type.
         * Spring Messaging (org.springframework:spring-messaging:7.0.7 - https://github.com/spring-projects/spring-framework)
         * Spring Transaction (org.springframework:spring-tx:7.0.7 - https://github.com/spring-projects/spring-framework)
         * Throttling Appender (io.dropwizard.logback:logback-throttling-appender:1.5.3 - https://github.com/dropwizard/logback-throttling-appender/)
-        * Woodstox (com.fasterxml.woodstox:woodstox-core:7.2.0 - https://github.com/FasterXML/woodstox)
+        * Woodstox (com.fasterxml.woodstox:woodstox-core:7.2.1 - https://github.com/FasterXML/woodstox)
 
     Apache License, Version 2.0, BSD 2-Clause, Eclipse Distribution License, Version 1.0, Eclipse Public License, Version 2.0, jQuery license, MIT License, Modified BSD, Public Domain, The GNU General Public License (GPL), Version 2, With Classpath Exception, W3C license
 
@@ -251,14 +251,15 @@ List of third-party dependencies grouped by their license type.
 
     Apache License, Version 2.0, Eclipse Public License, Version 2.0
 
-        * Core :: HTTP (org.eclipse.jetty:jetty-http:12.1.9 - https://jetty.org/jetty-core/jetty-http)
-        * Core :: IO (org.eclipse.jetty:jetty-io:12.1.9 - https://jetty.org/jetty-core/jetty-io)
+        * Core :: HTTP (org.eclipse.jetty:jetty-http:12.1.10 - https://jetty.org/jetty-core/jetty-http)
+        * Core :: IO (org.eclipse.jetty:jetty-io:12.1.10 - https://jetty.org/jetty-core/jetty-io)
+        * Core :: Security (org.eclipse.jetty:jetty-security:12.1.10 - https://jetty.org/jetty-core/jetty-security)
         * Core :: Security (org.eclipse.jetty:jetty-security:12.1.9 - https://jetty.org/jetty-core/jetty-security)
-        * Core :: Server (org.eclipse.jetty:jetty-server:12.1.9 - https://jetty.org/jetty-core/jetty-server)
-        * Core :: Sessions (org.eclipse.jetty:jetty-session:12.1.9 - https://jetty.org/jetty-core/jetty-session)
-        * Core :: Utilities (org.eclipse.jetty:jetty-util:12.1.9 - https://jetty.org/jetty-core/jetty-util)
-        * EE10 :: Servlet (org.eclipse.jetty.ee10:jetty-ee10-servlet:12.1.9 - https://jetty.org/jetty-ee10/jetty-ee10-servlet)
-        * EE10 :: Utility Servlets and Filters (org.eclipse.jetty.ee10:jetty-ee10-servlets:12.1.9 - https://jetty.org/jetty-ee10/jetty-ee10-servlets)
+        * Core :: Server (org.eclipse.jetty:jetty-server:12.1.10 - https://jetty.org/jetty-core/jetty-server)
+        * Core :: Sessions (org.eclipse.jetty:jetty-session:12.1.10 - https://jetty.org/jetty-core/jetty-session)
+        * Core :: Utilities (org.eclipse.jetty:jetty-util:12.1.10 - https://jetty.org/jetty-core/jetty-util)
+        * EE10 :: Servlet (org.eclipse.jetty.ee10:jetty-ee10-servlet:12.1.10 - https://jetty.org/jetty-ee10/jetty-ee10-servlet)
+        * EE10 :: Utility Servlets and Filters (org.eclipse.jetty.ee10:jetty-ee10-servlets:12.1.10 - https://jetty.org/jetty-ee10/jetty-ee10-servlets)
 
     Apache License, Version 2.0, Eclipse Public License, Version 2.0, Modified BSD, The GNU General Public License (GPL), Version 2, With Classpath Exception
 
@@ -296,7 +297,7 @@ List of third-party dependencies grouped by their license type.
 
     BSD 2-Clause License
 
-        * zstd-jni (com.github.luben:zstd-jni:1.5.7-9 - https://github.com/luben/zstd-jni)
+        * zstd-jni (com.github.luben:zstd-jni:1.5.7-11 - https://github.com/luben/zstd-jni)
 
     BSD 3-Clause License
 
